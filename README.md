@@ -29,7 +29,8 @@ Esses princípios são fundamentais para se produzir sistemas com boas práticas
  - Python: [SOLID Principles: Improve Object-Oriented Design in Python.](https://realpython.com/solid-principles-python/)
  - JS/TS: [SOLID - The Simple Way To Understand.](https://dev.to/kevin-uehara/solid-the-simple-way-to-understand-47im)
  - PHP: [Princípios SOLID: o que são e como aplicá-los no PHP/Laravel](https://dev.to/lucascavalcante/principios-solid-o-que-sao-e-como-aplica-los-no-php-laravel-parte-01-responsabilidade-unica-3mjj)  
- - Java: [Os princípios SOLID da Programação Orientada a Objetos explicados em bom português](https://www.freecodecamp.org/portuguese/news/os-principios-solid-da-programacao-orientada-a-objetos-explicados-em-bom-portugues/)
- <!-- [Princípios SOLID em Java](https://community.revelo.com.br/principios-solid-em-java/) -->
+ - Java:
+  - [Os princípios SOLID da Programação Orientada a Objetos explicados em bom português](https://www.freecodecamp.org/portuguese/news/os-principios-solid-da-programacao-orientada-a-objetos-explicados-em-bom-portugues/)
+  - [Princípios SOLID em Java](https://community.revelo.com.br/principios-solid-em-java/)
 
  <!-- [Princípios SOLID: Single Responsability Principle](https://www.treinaweb.com.br/blog/principios-solid-single-responsability-principle#:~:text=Os%20princ%C3%ADpios%20SOLID%20s%C3%A3o%20cinco,princ%C3%ADpios%20da%20orienta%C3%A7%C3%A3o%20a%20objetos.) -->
