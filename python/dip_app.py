@@ -1,19 +1,19 @@
 from abc import ABC, abstractmethod
 
 # Bad example
-# class FrontEnd:
-#     def __init__(self, back_end):
-#         self.back_end = back_end
+class FrontEndBad:
+    def __init__(self, back_end):
+        self.back_end = back_end
 
-#     def display_data(self):
-#         data = self.back_end.get_data_from_database()
-#         print("Display data:", data)
+    def display_data(self):
+        data = self.back_end.get_data_from_database()
+        print("Display data:", data)
 
 
-# class BackEnd:
-#     def get_data_from_database(self):
-#         """Return data from the database."""
-#         return "Data from the database"
+class BackEnd:
+    def get_data_from_database(self):
+        """Return data from the database."""
+        return "Data from the database"
 
 
 # Good example
