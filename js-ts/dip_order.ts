@@ -1,6 +1,3 @@
-// DIP: Dependency Inversion Principle
-// Principio da inversão de dependência
-// Resumo: Depender de abstrações ao invés de implementações concretas
 
 interface Order {
   id: number;

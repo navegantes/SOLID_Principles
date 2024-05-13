@@ -1,7 +1,3 @@
-// SRP: Single Responsability Principle
-// Principio da responsabilidade única
-// Resumo: Uma classe deve ter apenas um motivo para mudar
-// * Um módulo deve ser responsável por um, e apenas um, ator
 
 // O jeito errado
 class TaskManagerWrong {

@@ -1,7 +1,3 @@
-// ISP: Interface Segregation Principle
-// Principio da Segregação de Interface
-// Resumo: A classe não deveria ser forçada a depender de
-// métodos que não usam
 
 // O jeito errado
 interface EmployeeWrong {

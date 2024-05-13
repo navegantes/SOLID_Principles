@@ -1,7 +1,3 @@
-// OCP: Open-Closed Principle
-// Principio Aberto e Fechado
-// Resumo: As entidades devem ser abertas para extensão
-// e fechada para modificação
 
 type ExamType = {
   type: "BLOOD" | "XRay";

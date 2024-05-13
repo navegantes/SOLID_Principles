@@ -1,6 +1,3 @@
-// LSP: Liskov Substitution Principle
-// Resumo: Classes derivadas devem ser capazes de
-// substituir seus tipos bases
 
 // O jeito errado
 class StudentWrong {
